@@ -5,10 +5,12 @@ Evaluating NCAA Division 1 Men's Basketball players. The goal was to analyze pot
 <img src="plots/model.png" width = 800>
 
 <figcaption align = "center"><b>Top 5 Players in Red.</b></figcaption>
+Kim Aiken, Jr. (Arizona), Sebastian Mendoza (San Jose State), Peyton Daniels (Vanderbilt), Devonaire Doutrive (Boise State), Michael Wang (Penn).
 
-The model looks at 3 key factors: 3 point rating, defensive adjusted rating (DAR), and height.
+The model looks at 3 key factors: defensive adjusted rating (DAR), 3 point rating, and height.
 
 $3PT Rating = (3 Point Percentage * (3Pointer Attempted/Minutes Played)) * (1 + (.0075 * Minutes Per Game))$ from [Bill Goldblatt](http://www.82games.com/Adjusting.htm).
+
 $Defensive Adjusted Rating = .5 * Defensive Rating + .5 * Defensive Win Shares + Strength of Schedule$.
 
 # Data Collection
