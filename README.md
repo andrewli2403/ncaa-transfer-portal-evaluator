@@ -16,7 +16,9 @@ $Defensive Adjusted Rating = .5 * Defensive Rating + .5 * Defensive Win Shares +
 
 # Data Processing
 
-Based on Goldblatt's decision to eliminate NBA Players who average less than 11 minutes per game, I eliminated college players who played less than 9 miuntes per game, proportional to Goldblatt. Players with 0 3 Pointers Made or Attempted were also eliminated.
+The model looks at only available 2022 transfers, those who had not already committed to another school. This is as of August 11th, 2022.
+
+Based on Goldblatt's decision to eliminate NBA Players who average less than 11 minutes per game, I eliminated college players who played less than 9 miuntes per game, proportional to Goldblatt. Players with 0 3 Pointers made or attempted were also eliminated.
 
 ## Feature Engineering
 The 3PT Rating was heavily right skewed, so to counter act this, a logarithmic transformation was applied to mimic a normal distribution.
