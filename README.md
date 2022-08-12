@@ -1,5 +1,5 @@
 # NCAA Transfer Portal Evaluator
-Evaluating NCAA Division 1 Men's Basketball players. The goal was to analyze potential transfer portal players that possess the skills and fits the mold of a 3 and D player. Extra spacing and shooting gravtiy creates easier offensive possessions while defensive ability along with height tends to allow teams to be more versatile defensively.
+Evaluating NCAA Division 1 Men's Basketball players. The goal was to analyze potential transfer portal players that possess the skills and fits the mold of a 3 and D player. Extra spacing and shooting gravity creates easier offensive possessions while defensive ability along with height tends to allow teams to be more versatile defensively.
 
 # Model
 <img src="plots/model.png" width = 800>
