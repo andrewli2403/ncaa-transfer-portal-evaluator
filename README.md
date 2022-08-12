@@ -2,10 +2,11 @@
 Evaluating NCAA Division 1 Men's Basketball players. The goal was to analyze potential transfer portal players that possess the skills and fits the mold of a 3 and D player. Extra spacing and shooting gravity creates easier offensive possessions while defensive ability along with height tends to allow teams to be more versatile defensively.
 
 # Model
-<img src="plots/model.png" width = 800>
+<p align="middle">
+  <img src="plots/model.png" width = 800>
+  <figcaption align = "middle"><b>Top 5 Players in Red:</b> Kim Aiken, Jr. (Arizona), Sebastian Mendoza (San Jose State), Peyton Daniels (Vanderbilt), Devonaire Doutrive (Boise State), Michael Wang (Penn).</figcaption>
+</p>
 
-<figcaption align = "center"><b>Top 5 Players in Red.</b></figcaption>
-Kim Aiken, Jr. (Arizona), Sebastian Mendoza (San Jose State), Peyton Daniels (Vanderbilt), Devonaire Doutrive (Boise State), Michael Wang (Penn).
 
 The model looks at 3 key factors: defensive adjusted rating (DAR), 3 point rating, and height.
 
